@@ -1,0 +1,6 @@
+compiled/
+*~
+.*.swp
+doc/*.css
+doc/*.js
+doc/*/
