@@ -1,6 +1,6 @@
 compiled/
 *~
 .*.swp
-doc/*.css
-doc/*.js
-doc/*/
+define-query-doc/*.css
+define-query-doc/*.js
+define-query-doc/*/

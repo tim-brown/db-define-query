@@ -4,10 +4,10 @@
 
 (define deps (list "db"))
 
-(define scribblings (list (list "doc/db-define-query.rkt"
+(define scribblings (list (list "define-query-doc/db-define-query.scrbl"
                                 '()
                                 '(library))))
 
 (define collection "db-define-query")
 
-(define test-include-paths (list "test/"))
+(define test-include-paths (list "define-query-test/"))
